@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences **Almost 2 years since I started working as Java developer**
 
-- ⚡ Fun fact **I like science fiction**
+- ⚡ Fun fact **I like science fiction 🤓**
 
 
 <h3 align="left">Languages and Tools:</h3>
