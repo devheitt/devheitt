@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java & Spring :)**
 
-- 📄 Know about my experiences [Almost 2 years since I started working as Java developer](Almost 2 years since I started working as Java developer)
+- 📄 Know about my experiences **Almost 2 years since I started working as Java developer**
 
 - ⚡ Fun fact **I like science fiction**
 
