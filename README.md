@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristian Heitt</h1>
-<h3 align="center">A passionate developer from Buenos Aires!</h3>
+<h3 align="center">A 24 years old passionate developer from Buenos Aires!</h3>
 
-- 🔭 I’m currently working as **a back-end developer using Java**
+- 🔭 I’m currently working as **a backend developer with Java & Kotlin**
 
-- 🌱 I’m currently learning **Kotlin & Android for mobile development**
+- 🌱 I’m currently learning **clean architectures and best practices**
 
 - 💬 Ask me about **Java & Spring :)**
 
-- 📄 Know about my experiences **Almost 2 years since I started working as Java developer**
+- 📄 Know about my experiences **4 years since I started working as a Java developer**
 
 - ⚡ Fun fact **I like science fiction 🤓**
 
